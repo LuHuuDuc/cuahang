@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Seven Up &#8211; Cửa Hàng</title>
-	<atom:link href="http://luhuuduc.github.io/cuahang/danh-muc-san-pham/seven-up/feed/" rel="self" type="application/rss+xml" />
-	<link>http://luhuuduc.github.io/cuahang</link>
+	<atom:link href="https://luhuuduc.github.io/cuahang/danh-muc-san-pham/seven-up/feed/" rel="self" type="application/rss+xml" />
+	<link>https://luhuuduc.github.io/cuahang</link>
 	<description></description>
 	<lastBuildDate>Wed, 12 Oct 2022 03:53:01 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>Rice Yogurt Coffee</title>
-		<link>http://luhuuduc.github.io/cuahang/san-pham/rice-yogurt-coffee/</link>
-					<comments>http://luhuuduc.github.io/cuahang/san-pham/rice-yogurt-coffee/#respond</comments>
+		<link>https://luhuuduc.github.io/cuahang/san-pham/rice-yogurt-coffee/</link>
+					<comments>https://luhuuduc.github.io/cuahang/san-pham/rice-yogurt-coffee/#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 01:37:32 +0000</pubDate>
-				<guid isPermaLink="false">http://luhuuduc.github.io/cuahang/?post_type=product&#038;p=884</guid>
+				<guid isPermaLink="false">https://luhuuduc.github.io/cuahang/?post_type=product&#038;p=884</guid>
 
 					<description><![CDATA[Nam nec tellus a odio tincid unt auctor a ornare odio. Sed nonauris vitae erat conse quat auctor. Consectetur adipiscing elit suspendisse. Proin gravida nibh vel velit auctor aliquet.]]></description>
 										<content:encoded><![CDATA[<div class="vc_row wpb_row">
@@ -62,19 +62,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/cuahang/san-pham/rice-yogurt-coffee/feed/</wfw:commentRss>
+					<wfw:commentRss>https://luhuuduc.github.io/cuahang/san-pham/rice-yogurt-coffee/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Orange Fruit Juice</title>
-		<link>http://luhuuduc.github.io/cuahang/san-pham/orange-fruit-juice/</link>
-					<comments>http://luhuuduc.github.io/cuahang/san-pham/orange-fruit-juice/#respond</comments>
+		<link>https://luhuuduc.github.io/cuahang/san-pham/orange-fruit-juice/</link>
+					<comments>https://luhuuduc.github.io/cuahang/san-pham/orange-fruit-juice/#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 01:34:26 +0000</pubDate>
-				<guid isPermaLink="false">http://luhuuduc.github.io/cuahang/?post_type=product&#038;p=883</guid>
+				<guid isPermaLink="false">https://luhuuduc.github.io/cuahang/?post_type=product&#038;p=883</guid>
 
 					<description><![CDATA[Nam nec tellus a odio tincid unt auctor a ornare odio. Sed nonauris vitae erat conse quat auctor. Consectetur adipiscing elit suspendisse. Proin gravida nibh vel velit auctor aliquet.]]></description>
 										<content:encoded><![CDATA[<div class="vc_row wpb_row">
@@ -110,19 +110,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/cuahang/san-pham/orange-fruit-juice/feed/</wfw:commentRss>
+					<wfw:commentRss>https://luhuuduc.github.io/cuahang/san-pham/orange-fruit-juice/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Mimami Tea Green</title>
-		<link>http://luhuuduc.github.io/cuahang/san-pham/mimami-tea-green/</link>
-					<comments>http://luhuuduc.github.io/cuahang/san-pham/mimami-tea-green/#respond</comments>
+		<link>https://luhuuduc.github.io/cuahang/san-pham/mimami-tea-green/</link>
+					<comments>https://luhuuduc.github.io/cuahang/san-pham/mimami-tea-green/#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 01:31:18 +0000</pubDate>
-				<guid isPermaLink="false">http://luhuuduc.github.io/cuahang/?post_type=product&#038;p=882</guid>
+				<guid isPermaLink="false">https://luhuuduc.github.io/cuahang/?post_type=product&#038;p=882</guid>
 
 					<description><![CDATA[Nam nec tellus a odio tincid unt auctor a ornare odio. Sed nonauris vitae erat conse quat auctor. Consectetur adipiscing elit suspendisse. Proin gravida nibh vel velit auctor aliquet.]]></description>
 										<content:encoded><![CDATA[<div class="vc_row wpb_row">
@@ -158,19 +158,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/cuahang/san-pham/mimami-tea-green/feed/</wfw:commentRss>
+					<wfw:commentRss>https://luhuuduc.github.io/cuahang/san-pham/mimami-tea-green/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ice Cream Milk</title>
-		<link>http://luhuuduc.github.io/cuahang/san-pham/ice-cream-milk/</link>
-					<comments>http://luhuuduc.github.io/cuahang/san-pham/ice-cream-milk/#respond</comments>
+		<link>https://luhuuduc.github.io/cuahang/san-pham/ice-cream-milk/</link>
+					<comments>https://luhuuduc.github.io/cuahang/san-pham/ice-cream-milk/#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Tue, 11 Oct 2022 14:47:47 +0000</pubDate>
-				<guid isPermaLink="false">http://luhuuduc.github.io/cuahang/?post_type=product&#038;p=851</guid>
+				<guid isPermaLink="false">https://luhuuduc.github.io/cuahang/?post_type=product&#038;p=851</guid>
 
 					<description><![CDATA[Nam nec tellus a odio tincid unt auctor a ornare odio. Sed nonauris vitae erat conse quat auctor. Consectetur adipiscing elit suspendisse. Proin gravida nibh vel velit auctor aliquet.]]></description>
 										<content:encoded><![CDATA[<div class="vc_row wpb_row">
@@ -206,19 +206,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/cuahang/san-pham/ice-cream-milk/feed/</wfw:commentRss>
+					<wfw:commentRss>https://luhuuduc.github.io/cuahang/san-pham/ice-cream-milk/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Green papaya salad</title>
-		<link>http://luhuuduc.github.io/cuahang/san-pham/green-papaya-salad/</link>
-					<comments>http://luhuuduc.github.io/cuahang/san-pham/green-papaya-salad/#respond</comments>
+		<link>https://luhuuduc.github.io/cuahang/san-pham/green-papaya-salad/</link>
+					<comments>https://luhuuduc.github.io/cuahang/san-pham/green-papaya-salad/#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Tue, 11 Oct 2022 14:44:19 +0000</pubDate>
-				<guid isPermaLink="false">http://luhuuduc.github.io/cuahang/?post_type=product&#038;p=845</guid>
+				<guid isPermaLink="false">https://luhuuduc.github.io/cuahang/?post_type=product&#038;p=845</guid>
 
 					<description><![CDATA[Nam nec tellus a odio tincid unt auctor a ornare odio. Sed nonauris vitae erat conse quat auctor. Consectetur adipiscing elit suspendisse. Proin gravida nibh vel velit auctor aliquet.]]></description>
 										<content:encoded><![CDATA[<div class="vc_row wpb_row">
@@ -254,19 +254,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/cuahang/san-pham/green-papaya-salad/feed/</wfw:commentRss>
+					<wfw:commentRss>https://luhuuduc.github.io/cuahang/san-pham/green-papaya-salad/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Cream Fresh</title>
-		<link>http://luhuuduc.github.io/cuahang/san-pham/cream-fresh/</link>
-					<comments>http://luhuuduc.github.io/cuahang/san-pham/cream-fresh/#respond</comments>
+		<link>https://luhuuduc.github.io/cuahang/san-pham/cream-fresh/</link>
+					<comments>https://luhuuduc.github.io/cuahang/san-pham/cream-fresh/#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Tue, 11 Oct 2022 14:41:23 +0000</pubDate>
-				<guid isPermaLink="false">http://luhuuduc.github.io/cuahang/?post_type=product&#038;p=840</guid>
+				<guid isPermaLink="false">https://luhuuduc.github.io/cuahang/?post_type=product&#038;p=840</guid>
 
 					<description><![CDATA[Nam nec tellus a odio tincid unt auctor a ornare odio. Sed nonauris vitae erat conse quat auctor. Consectetur adipiscing elit suspendisse. Proin gravida nibh vel velit auctor aliquet.]]></description>
 										<content:encoded><![CDATA[<div class="vc_row wpb_row">
@@ -302,19 +302,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/cuahang/san-pham/cream-fresh/feed/</wfw:commentRss>
+					<wfw:commentRss>https://luhuuduc.github.io/cuahang/san-pham/cream-fresh/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Cream Bong Ngo</title>
-		<link>http://luhuuduc.github.io/cuahang/san-pham/cream-bong-ngo/</link>
-					<comments>http://luhuuduc.github.io/cuahang/san-pham/cream-bong-ngo/#respond</comments>
+		<link>https://luhuuduc.github.io/cuahang/san-pham/cream-bong-ngo/</link>
+					<comments>https://luhuuduc.github.io/cuahang/san-pham/cream-bong-ngo/#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Tue, 11 Oct 2022 14:36:03 +0000</pubDate>
-				<guid isPermaLink="false">http://luhuuduc.github.io/cuahang/?post_type=product&#038;p=826</guid>
+				<guid isPermaLink="false">https://luhuuduc.github.io/cuahang/?post_type=product&#038;p=826</guid>
 
 					<description><![CDATA[Nam nec tellus a odio tincid unt auctor a ornare odio. Sed nonauris vitae erat conse quat auctor. Consectetur adipiscing elit suspendisse. Proin gravida nibh vel velit auctor aliquet.]]></description>
 										<content:encoded><![CDATA[<div class="vc_row wpb_row">
@@ -350,19 +350,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/cuahang/san-pham/cream-bong-ngo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://luhuuduc.github.io/cuahang/san-pham/cream-bong-ngo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Clementine cake</title>
-		<link>http://luhuuduc.github.io/cuahang/san-pham/clementine-cake/</link>
-					<comments>http://luhuuduc.github.io/cuahang/san-pham/clementine-cake/#respond</comments>
+		<link>https://luhuuduc.github.io/cuahang/san-pham/clementine-cake/</link>
+					<comments>https://luhuuduc.github.io/cuahang/san-pham/clementine-cake/#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Tue, 11 Oct 2022 14:25:58 +0000</pubDate>
-				<guid isPermaLink="false">http://luhuuduc.github.io/cuahang/?post_type=product&#038;p=821</guid>
+				<guid isPermaLink="false">https://luhuuduc.github.io/cuahang/?post_type=product&#038;p=821</guid>
 
 					<description><![CDATA[Nam nec tellus a odio tincid unt auctor a ornare odio. Sed nonauris vitae erat conse quat auctor. Consectetur adipiscing elit suspendisse. Proin gravida nibh vel velit auctor aliquet.]]></description>
 										<content:encoded><![CDATA[<div class="vc_row wpb_row">
@@ -398,7 +398,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/cuahang/san-pham/clementine-cake/feed/</wfw:commentRss>
+					<wfw:commentRss>https://luhuuduc.github.io/cuahang/san-pham/clementine-cake/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

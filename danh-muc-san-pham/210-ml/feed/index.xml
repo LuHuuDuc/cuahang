@@ -9,8 +9,8 @@
 
 <channel>
 	<title>210 ml &#8211; Cửa Hàng</title>
-	<atom:link href="http://luhuuduc.github.io/cuahang/danh-muc-san-pham/210-ml/feed/" rel="self" type="application/rss+xml" />
-	<link>http://luhuuduc.github.io/cuahang</link>
+	<atom:link href="https://luhuuduc.github.io/cuahang/danh-muc-san-pham/210-ml/feed/" rel="self" type="application/rss+xml" />
+	<link>https://luhuuduc.github.io/cuahang</link>
 	<description></description>
 	<lastBuildDate>Wed, 12 Oct 2022 03:12:14 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>Cream Bong Ngo</title>
-		<link>http://luhuuduc.github.io/cuahang/san-pham/cream-bong-ngo/</link>
-					<comments>http://luhuuduc.github.io/cuahang/san-pham/cream-bong-ngo/#respond</comments>
+		<link>https://luhuuduc.github.io/cuahang/san-pham/cream-bong-ngo/</link>
+					<comments>https://luhuuduc.github.io/cuahang/san-pham/cream-bong-ngo/#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Tue, 11 Oct 2022 14:36:03 +0000</pubDate>
-				<guid isPermaLink="false">http://luhuuduc.github.io/cuahang/?post_type=product&#038;p=826</guid>
+				<guid isPermaLink="false">https://luhuuduc.github.io/cuahang/?post_type=product&#038;p=826</guid>
 
 					<description><![CDATA[Nam nec tellus a odio tincid unt auctor a ornare odio. Sed nonauris vitae erat conse quat auctor. Consectetur adipiscing elit suspendisse. Proin gravida nibh vel velit auctor aliquet.]]></description>
 										<content:encoded><![CDATA[<div class="vc_row wpb_row">
@@ -62,7 +62,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/cuahang/san-pham/cream-bong-ngo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://luhuuduc.github.io/cuahang/san-pham/cream-bong-ngo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

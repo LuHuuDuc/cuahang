@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Cửa Hàng</title>
-	<atom:link href="http://luhuuduc.github.io/cuahang/feed/" rel="self" type="application/rss+xml" />
-	<link>http://luhuuduc.github.io/cuahang</link>
+	<atom:link href="https://luhuuduc.github.io/cuahang/feed/" rel="self" type="application/rss+xml" />
+	<link>https://luhuuduc.github.io/cuahang</link>
 	<description></description>
 	<lastBuildDate>Wed, 14 Sep 2022 13:39:12 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,31 +21,31 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>DEMO</title>
-		<link>http://luhuuduc.github.io/cuahang/2022/09/06/demo/</link>
-					<comments>http://luhuuduc.github.io/cuahang/2022/09/06/demo/#respond</comments>
+		<link>https://luhuuduc.github.io/cuahang/2022/09/06/demo/</link>
+					<comments>https://luhuuduc.github.io/cuahang/2022/09/06/demo/#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Tue, 06 Sep 2022 06:51:55 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">http://luhuuduc.github.io/cuahang/?p=551</guid>
+		<guid isPermaLink="false">https://luhuuduc.github.io/cuahang/?p=551</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/cuahang/2022/09/06/demo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://luhuuduc.github.io/cuahang/2022/09/06/demo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>TRÀ XANH THÁI NGUYÊN</title>
-		<link>http://luhuuduc.github.io/cuahang/2022/09/02/tra-xanh-thai-nguyen/</link>
-					<comments>http://luhuuduc.github.io/cuahang/2022/09/02/tra-xanh-thai-nguyen/#respond</comments>
+		<link>https://luhuuduc.github.io/cuahang/2022/09/02/tra-xanh-thai-nguyen/</link>
+					<comments>https://luhuuduc.github.io/cuahang/2022/09/02/tra-xanh-thai-nguyen/#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Fri, 02 Sep 2022 14:32:03 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">http://luhuuduc.github.io/cuahang/?p=77</guid>
+		<guid isPermaLink="false">https://luhuuduc.github.io/cuahang/?p=77</guid>
 
 					<description><![CDATA[Home Home-child Home-child Blog Blog-child Blog-child 0 Login/Register Shop Now Premium Organic Tea You Can Feel Good About Because life is too short for average tea The world&#8217;s  freshest tea Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis [&#8230;]]]></description>
 			<br />
@@ -69,14 +69,14 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-06cddcb elementor-absolute eael_simple_menu_hamburger_disable_selected_menu_no eael-simple-menu-hamburger-align-eael-simple-menu-hamburger-align-right elementor-widget elementor-widget-eael-simple-menu" data-id="06cddcb" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="eael-simple-menu.default">
 				<div class="elementor-widget-container">
-			<div data-hamburger-icon="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-bars&quot;&gt;&lt;/i&gt;" data-indicator-class="fas fa-plus" data-dropdown-indicator-class="fas fa-angle-down" class="eael-simple-menu-container eael-simple-menu-align-left eael-simple-menu-dropdown-align-left preset-1"><ul id="menu-mainmenu" class="eael-simple-menu eael-simple-menu-dropdown-animate-to-top eael-simple-menu-indicator eael-simple-menu-horizontal"><li id="menu-item-895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-895"><a href="http://luhuuduc.github.io/cuahang/trang-chu/">Trang Chủ</a></li>
-<li id="menu-item-899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-899"><a href="http://luhuuduc.github.io/cuahang/home/">Landing Page</a></li>
-<li id="menu-item-917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-917"><a href="http://luhuuduc.github.io/cuahang/">Cửa hàng</a></li>
-<li id="menu-item-896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-896"><a href="http://luhuuduc.github.io/cuahang/tai-khoan/">Tài khoản</a></li>
-<li id="menu-item-897" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-897"><a href="http://luhuuduc.github.io/cuahang/thanh-toan/">Thanh toán</a></li>
-<li id="menu-item-898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-898"><a href="http://luhuuduc.github.io/cuahang/gio-hang/">Giỏ hàng</a></li>
-<li id="menu-item-894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-894"><a href="http://luhuuduc.github.io/cuahang/about-us/">ABOUT US</a></li>
-<li id="menu-item-893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-893"><a href="http://luhuuduc.github.io/cuahang/contact/">CONTACT</a></li>
+			<div data-hamburger-icon="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-bars&quot;&gt;&lt;/i&gt;" data-indicator-class="fas fa-plus" data-dropdown-indicator-class="fas fa-angle-down" class="eael-simple-menu-container eael-simple-menu-align-left eael-simple-menu-dropdown-align-left preset-1"><ul id="menu-mainmenu" class="eael-simple-menu eael-simple-menu-dropdown-animate-to-top eael-simple-menu-indicator eael-simple-menu-horizontal"><li id="menu-item-895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-895"><a href="https://luhuuduc.github.io/cuahang/trang-chu/">Trang Chủ</a></li>
+<li id="menu-item-899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-899"><a href="https://luhuuduc.github.io/cuahang/home/">Landing Page</a></li>
+<li id="menu-item-917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-917"><a href="https://luhuuduc.github.io/cuahang/">Cửa hàng</a></li>
+<li id="menu-item-896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-896"><a href="https://luhuuduc.github.io/cuahang/tai-khoan/">Tài khoản</a></li>
+<li id="menu-item-897" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-897"><a href="https://luhuuduc.github.io/cuahang/thanh-toan/">Thanh toán</a></li>
+<li id="menu-item-898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-898"><a href="https://luhuuduc.github.io/cuahang/gio-hang/">Giỏ hàng</a></li>
+<li id="menu-item-894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-894"><a href="https://luhuuduc.github.io/cuahang/about-us/">ABOUT US</a></li>
+<li id="menu-item-893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-893"><a href="https://luhuuduc.github.io/cuahang/contact/">CONTACT</a></li>
 </ul></div>		</div>
 				</div>
 					</div>
@@ -160,23 +160,23 @@
 				<div class="elementor-element elementor-element-46f5e88 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image" data-id="46f5e88" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.7.4 - 31-08-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/revslider_h14-shape2.png" title="" alt="" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/revslider_h14-shape2.png" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-4bab3c3 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image" data-id="4bab3c3" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/revslider_h14-shape5.png" title="" alt="" />															</div>
+															<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/revslider_h14-shape5.png" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-feff45c elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image" data-id="feff45c" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/revslider_h14-shape4.png" title="" alt="" />															</div>
+															<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/revslider_h14-shape4.png" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-0ec851b elementor-widget__width-initial elementor-absolute lacay elementor-widget elementor-widget-image" data-id="0ec851b" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/revslider_h14-shape1.png" title="" alt="" />															</div>
+															<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/revslider_h14-shape1.png" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-dfd5270 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image" data-id="dfd5270" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/revslider_h14-shape3.png" title="" alt="" />															</div>
+															<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/revslider_h14-shape3.png" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-9caafc6 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="9caafc6" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -192,15 +192,15 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-d692704 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image" data-id="d692704" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/revslider_h14-img3.png" title="" alt="" />															</div>
+															<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/revslider_h14-img3.png" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-216f3ff elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image" data-id="216f3ff" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/revslider_h14-img2.png" title="" alt="" />															</div>
+															<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/revslider_h14-img2.png" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-31ac5ce elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image" data-id="31ac5ce" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/revslider_h14-img1.png" title="" alt="" />															</div>
+															<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/revslider_h14-img1.png" title="" alt="" />															</div>
 				</div>
 					</div>
 		</div>
@@ -212,11 +212,11 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-19c9bad elementor-widget__width-initial elementor-absolute e-transform elementor-widget elementor-widget-image" data-id="19c9bad" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_transform_scale_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.04,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/background-1.png" title="" alt="" />															</div>
+															<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/background-1.png" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-f61af78 elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-image" data-id="f61af78" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/img-home14.png" title="" alt="" />															</div>
+															<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/img-home14.png" title="" alt="" />															</div>
 				</div>
 					</div>
 		</div>
@@ -232,7 +232,7 @@
 				</div>
 				<div class="elementor-element elementor-element-a6f1599 elementor-widget__width-auto elementor-absolute elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="a6f1599" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="http://luhuuduc.github.io/cuahang/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">		<div class="elementor-icon-box-wrapper">
+			<link rel="stylesheet" href="https://luhuuduc.github.io/cuahang/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">		<div class="elementor-icon-box-wrapper">
 						<div class="elementor-icon-box-icon">
 				<span class="elementor-icon elementor-animation-" >
 								</span>
@@ -361,19 +361,19 @@
 								<div class="elementor-element elementor-element-21e230f elementor-widget__width-initial elementor-absolute elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="21e230f" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.7.4 - 31-08-2022 */
-.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/Untitled-6.jpg" title="" alt="" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Power Tea</h3><p class="elementor-image-box-description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p></div></div>		</div>
+.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/Untitled-6.jpg" title="" alt="" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Power Tea</h3><p class="elementor-image-box-description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-ba6ac9d elementor-widget__width-initial elementor-absolute elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ba6ac9d" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/Untitled-7.jpg" title="" alt="" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Healthy Tea</h3><p class="elementor-image-box-description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/Untitled-7.jpg" title="" alt="" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Healthy Tea</h3><p class="elementor-image-box-description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-0010417 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image" data-id="0010417" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateY_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateY_direction&quot;:&quot;negative&quot;,&quot;motion_fx_translateY_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:30,&quot;end&quot;:77}},&quot;motion_fx_translateY_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:4,&quot;sizes&quot;:[]},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/h14-layer-5.png" title="" alt="" />															</div>
+															<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/h14-layer-5.png" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-d5449c7 elementor-widget__width-initial elementor-absolute elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="d5449c7" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/Untitled-8.jpg" title="" alt="" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Diet Tea</h3><p class="elementor-image-box-description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/Untitled-8.jpg" title="" alt="" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Diet Tea</h3><p class="elementor-image-box-description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -416,7 +416,7 @@
 				</div>
 				<div class="elementor-element elementor-element-26af17f elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image" data-id="26af17f" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateY_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateY_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:2,&quot;sizes&quot;:[]},&quot;motion_fx_translateY_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:100}},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/1.png" title="" alt="" />															</div>
+															<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/1.png" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-0360a50 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="0360a50" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -424,7 +424,7 @@
 				</div>
 				<div class="elementor-element elementor-element-8730b2d elementor-list-item-link-inline elementor-widget__width-initial elementor-absolute elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="8730b2d" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="http://luhuuduc.github.io/cuahang/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
+			<link rel="stylesheet" href="https://luhuuduc.github.io/cuahang/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
 											<a href="#">
 
@@ -488,11 +488,11 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-d407c58 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image" data-id="d407c58" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/background-2.png" title="" alt="" />															</div>
+															<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/background-2.png" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-d09908f elementor-absolute elementor-widget elementor-widget-image" data-id="d09908f" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/home14-img2.jpg" title="" alt="" />															</div>
+															<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/home14-img2.jpg" title="" alt="" />															</div>
 				</div>
 					</div>
 		</div>
@@ -519,11 +519,11 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-2b23f3f elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image" data-id="2b23f3f" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/background-3.png" title="" alt="" />															</div>
+															<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/background-3.png" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-0df40a7 elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-image" data-id="0df40a7" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/h14-layer-7.png" title="" alt="" />															</div>
+															<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/h14-layer-7.png" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-1825478 elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-text-editor" data-id="1825478" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -564,11 +564,11 @@
 				</div>
 				<div class="elementor-element elementor-element-52eac9c elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image" data-id="52eac9c" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/home14-img4.jpg" title="" alt="" />															</div>
+															<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/home14-img4.jpg" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-73f12e7 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image" data-id="73f12e7" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/home14-img5.jpg" title="" alt="" />															</div>
+															<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/home14-img5.jpg" title="" alt="" />															</div>
 				</div>
 					</div>
 		</div>
@@ -644,7 +644,7 @@
 								<div class="elementor-element elementor-element-7c6830b elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-image" data-id="7c6830b" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 																<a href="#">
-							<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/14_product_4-768x922-1.jpg" title="" alt="" />								</a>
+							<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/14_product_4-768x922-1.jpg" title="" alt="" />								</a>
 															</div>
 				</div>
 				<div class="elementor-element elementor-element-236800e elementor-align-center elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-button" data-id="236800e" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
@@ -749,19 +749,19 @@
 				<div class="elementor-element elementor-element-629c2eb elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-image" data-id="629c2eb" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 																<a href="#">
-							<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/14_product_2-768x922-1.jpg" title="" alt="" />								</a>
+							<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/14_product_2-768x922-1.jpg" title="" alt="" />								</a>
 															</div>
 				</div>
 				<div class="elementor-element elementor-element-b4592dd elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-image" data-id="b4592dd" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 																<a href="#">
-							<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/14_product_3-768x922-1.jpg" title="" alt="" />								</a>
+							<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/14_product_3-768x922-1.jpg" title="" alt="" />								</a>
 															</div>
 				</div>
 				<div class="elementor-element elementor-element-ca54c5c elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-image" data-id="ca54c5c" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 																<a href="#">
-							<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/14_product_1-768x922-1.jpg" title="" alt="" />								</a>
+							<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/14_product_1-768x922-1.jpg" title="" alt="" />								</a>
 															</div>
 				</div>
 					</div>
@@ -914,7 +914,7 @@ Chase, MD 20815 <br>
 				</div>
 				<div class="elementor-element elementor-element-fc9a5aa elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image" data-id="fc9a5aa" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="http://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/icon-food1.png" title="" alt="" />															</div>
+															<img src="https://luhuuduc.github.io/cuahang/wp-content/uploads/2022/09/icon-food1.png" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-7f94e12 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="7f94e12" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -955,7 +955,7 @@ Chase, MD 20815 <br>
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/cuahang/2022/09/02/tra-xanh-thai-nguyen/feed/</wfw:commentRss>
+					<wfw:commentRss>https://luhuuduc.github.io/cuahang/2022/09/02/tra-xanh-thai-nguyen/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
